@@ -8,3 +8,12 @@ this is possible by the creation of branches.
 We can use git for any languages.It will work.
 bye bye anju
 have  a wonderful day.
+
+
+There were also something new in git.They were...
+Commit
+Branch
+Repository
+README.md
+merge
+pull request
