@@ -7,6 +7,10 @@ Here we can work with 2 projects simultaneously.
 this is possible by the creation of branches.
 We can use git for any languages.It will work.
 Git is open source.
+Also many git tutorials were completed by just 1 hour.
+so it is easy to learn.
+html,css,java, python,c#,c++ all the projects can be made here.
+We are now just writing a text file for demo purpose.
 bye bye anju
 have  a wonderful day.
 
