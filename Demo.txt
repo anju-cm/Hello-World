@@ -11,6 +11,15 @@ Also many git tutorials were completed by just 1 hour.
 so it is easy to learn.
 html,css,java, python,c#,c++ all the projects can be made here.
 We are now just writing a text file for demo purpose.
+
+
+There were also something new in git.They were...
+Commit
+Branch
+Repository
+README.md
+merge
+pull request
+
 bye bye anju
 have  a wonderful day.
-
